@@ -1,5 +1,5 @@
 # glongtak.github.io
-![image](https://github.com/glongtak/glongtak.github.io/assets/144388577/f2e40570-a8ce-4caf-8727-a26926f6bc71)
+![image](https://github.com/glongtak/glongtak.github.io/assets/144388577/7a180696-bee9-424a-a14a-caeb011462e3)
 
 - **Full name(ENG) : Paris Nakatuch**  
 - **Full name(TH) : ภฤศ นาคะธัช**  
