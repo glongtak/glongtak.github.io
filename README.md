@@ -1,5 +1,5 @@
 # glongtak.github.io
-![Paris pic](https://dg.in.th/1/img/Paris.jpg "What's up").
+![image](https://github.com/glongtak/glongtak.github.io/assets/144388577/f2e40570-a8ce-4caf-8727-a26926f6bc71)
 
 - **Full name(ENG) : Paris Nakatuch**  
 - **Full name(TH) : ภฤศ นาคะธัช**  
